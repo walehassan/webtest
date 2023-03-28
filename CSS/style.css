@@ -1,0 +1,54 @@
+.beefstructure {
+    display: flex;
+}
+
+.beeftext {
+    font-family: "nunito sans";
+    margin-top: 80px;
+}
+
+.buybtn {
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    font-family: "nunito sans";
+    background: #fbb731;
+    color: #1e2f40;
+    border-radius: 5px;
+    margin-left: 15px;
+    height: auto;
+    width: 150px;
+    text-transform: uppercase;
+}
+
+
+.buybtn:hover {
+    color: #fff;
+    background-color: #F37335;
+}
+
+
+.weightimage {
+    margin-top: 10px;
+    width: 20px;
+    height: 20px;font-size: 15px;
+    line-height: 24px;
+    font-family: lato;
+    font-weight: 400;
+    color: #979797;
+
+}
+
+.weight {
+    margin-right: 30px;
+    font-size: 15px;
+    font-family: "Lato";
+    font-weight: 400;
+    color: #979797;
+}
+
+.productstructure{
+    margin-left: 20px;
+    margin-top: 20px;
+}
